@@ -1,4 +1,4 @@
-# Core Gym
+# Gym Bro
 
 App de entrenamiento funcional para casa. React + Vite + Firebase (Authentication y Firestore).
 

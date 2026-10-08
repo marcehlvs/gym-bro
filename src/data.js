@@ -1,5 +1,5 @@
 import qrcode from 'qrcode-generator';
-export const GYM={name:'Tu Gimnasio'}; // cambiá el nombre del gimnasio acá
+export const GYM={name:'Gym Bro'}; // cambiá el nombre del gimnasio acá
 export const EX={
 sq:{n:'Sentadilla',m:'Piernas y glúteos',d:'Pies al ancho de hombros. Llevá la cadera hacia atrás como para sentarte, espalda recta, y subí empujando con los talones.',p:2400,f:[[102,10,100,22,100,56,106,38,112,52,102,82,100,108,102,82,100,108],[110,40,102,52,86,82,120,52,138,50,112,84,100,108,112,84,100,108]]},
 mc:{n:'Escaladores',m:'Cardio y abdomen',d:'Manos bajo los hombros, cuerpo recto. Llevá una rodilla al pecho y cambiá de pierna rápido, sin subir la cadera.',p:800,f:[[158,72,142,78,92,88,142,93,142,107,118,90,106,104,66,97,40,106],[158,72,142,78,92,88,142,93,142,107,66,97,40,106,118,90,106,104]]},
